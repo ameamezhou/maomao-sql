@@ -9,3 +9,4 @@
 *.obj
 *.i
 .vscode/
+.idea
